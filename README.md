@@ -1,6 +1,6 @@
 # Invoice Text Extract
 
-A backend script to extract text from invoice documents using PaddleOCR and store the extracted data as JSON and CSV files.
+A backend script runs on colab which extract text from invoice documents using PaddleOCR and store the extracted data as JSON and CSV files.
 
 ## Features
 
