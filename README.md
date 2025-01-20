@@ -17,7 +17,6 @@ Follow these instructions to set up and run the project on your local machine.
 ### Prerequisites
 
 Ensure you have the following installed:
-![Uploading doc.png…]()
 
 - Python (>= 3.8)
 - Git
@@ -28,7 +27,6 @@ Ensure you have the following installed:
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/umr-se/Invoice-Text-Extract-
-
-
+![doc](https://github.com/user-attachments/assets/3f87b04e-2f04-40f9-8202-9ce3dd187f6d)
 
 
